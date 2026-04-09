@@ -1,7 +1,6 @@
 # 🌿 Plant-Leaf-Disease-Detection-using-ResNet-Transfer-Learning
 
-CropHealthNet is a Deep Learning-based project that detects and classifies **plant leaf diseases** using **Transfer Learning** with pretrained CNN architectures in **PyTorch**.  
-The model is trained using the **One Cycle Learning Rate Policy (OneCycleLR)** to achieve faster convergence and better generalization.
+This is a Deep Learning-based project that detects and classifies **plant leaf diseases** using **Transfer Learning** with pretrained CNN architectures in **PyTorch**. The model is trained using the **One Cycle Learning Rate Policy (OneCycleLR)** to achieve faster convergence and better generalization.
 
 ---
 
